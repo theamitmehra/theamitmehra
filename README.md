@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Mehra</h1>
-<h3 align="center">A passionate Web frontend developer</h3>
+<h3 align="center">Student At TIET </h3>
 
 <p align="left"> <a href="https://twitter.com/theamitmehraaa" target="blank"><img src="https://img.shields.io/twitter/follow/theamitmehraaa?logo=twitter&style=for-the-badge" alt="theamitmehraaa" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **amitmehra7470@gmail.com**
 
-- ⚡ Fun fact **I am pursuing computer science engineering from Takshshila institute of engineering and technology Jabalpur Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (C++), C , Python , And what I might lack in skills I make up for with my determination to learn**
+- ⚡ About **I am pursuing computer science engineering from Takshshila institute of engineering and technology Jabalpur Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (C++), C , Python , And what I might lack in skills I make up for with my determination to learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
